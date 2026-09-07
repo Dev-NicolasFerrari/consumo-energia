@@ -11,5 +11,5 @@ Fatura mensal: consumoMensal * R$0,75
 <div align=center style="display: inline_block"><br>
 <img alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img alt="GIT" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/GIT.svg">">
+<img alt="GIT" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/GIT.svg">
 </div>
