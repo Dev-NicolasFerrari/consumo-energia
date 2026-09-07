@@ -8,8 +8,8 @@
 ### 🧾 Fatura mensal: "consumo mensal" * R$0,75
 ---
 ## 🌐 Tecnologias utilizadas:
-<div align=center style="display: inline_block"><br>
-<img alt="Python" height="40" width="40"
+<div align=left style="display: inline_block"><br>
+<img alt="Python" height="60" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img alt="GIT" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/GIT.svg">
+<img alt="GIT" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/GIT.svg">
 </div>
