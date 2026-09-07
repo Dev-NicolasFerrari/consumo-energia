@@ -3,8 +3,8 @@
 
 # Entrada
 nome_aparelho = input("Digite o tipo de aparelho: ")
-voltagem_watt = float("Digite a voltagem do aparelho em watts(W): ")
-tempo_uso = float("Digite o tempo médio de uso diário em horas: ")
+voltagem_watt = float(input("Digite a voltagem do aparelho em watts(W): "))
+tempo_uso = float(input("Digite o tempo médio de uso diário em horas: "))
 
 # Processamento
 consumo_mensal = (voltagem_watt * tempo_uso * 30) / 1000
